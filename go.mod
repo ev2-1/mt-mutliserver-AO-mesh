@@ -1,4 +1,4 @@
-module github.com/ev2-1/mt-multiserver-AO-mesh
+module github.com/ev2-1/mt-mutliserver-AO-mesh
 
 go 1.18
 
